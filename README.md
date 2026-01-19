@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 - 🔭 I’m currently working on **DMJ DegenXpert**
-- 🌱 I’m learning **Django & Solidity**
+- 🌱 I’m learning **Java & Solidity**
 - 💬 Ask me about **JavaScript, TypeScript, React, Vue, Next.js, Node.js, Laravel, NestJS**
 - 📫 How to reach me: **ptime552@gmail.com or @dmj_wise on X(twitter)**  
 - ⚡ Fun fact: **I started coding in 2017 with C/C++ and grew into full-stack development.**
